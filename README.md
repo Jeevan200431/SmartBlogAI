@@ -5,8 +5,8 @@ The project is built using a **MERN-like architecture** (React + Node.js/Express
 ---  
 ## 🔗 Live Demo  
 Try it out here 👉 [SmartBlogAI Live] (https://smart-blog-ai.vercel.app/)  
----  
-## Features  
+
+## Features    
 ### Users  
 - Read blogs  
 - Comment on blogs  
