@@ -2,8 +2,10 @@
 
 <h5>SmartBlogAI is a blogging platform where users can **read blogs and post comments**, while admins can **add, remove, and manage blogs and comments**.  
 The project is built using a **MERN-like architecture** (React + Node.js/Express + MongoDB) and optimized for deployment on **Vercel** and **GitHub**.</h5>
----
-
+---  
+## 🔗 Live Demo  
+Try it out here 👉 [SmartBlogAI Live] (https://smart-blog-ai.vercel.app/)  
+---  
 ## Features  
 ### Users  
 - Read blogs  
