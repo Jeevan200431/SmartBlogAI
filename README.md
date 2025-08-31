@@ -18,9 +18,9 @@ The project is built using a **MERN-like architecture** (React + Node.js/Express
 ---  
 
 ##  Project Structure  
-AIBlog/
+AIBlog/  
 │── client/ # Frontend (React + vite)  
-│ ├── src/  
+│ ├── src/   
 │ ├── public/  
 │ ├── .env  
 │ └── package.json  
