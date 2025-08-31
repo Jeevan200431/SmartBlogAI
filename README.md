@@ -41,7 +41,7 @@ AIBlog/
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 - **Frontend**: React + Vite + TailwindCSS  
 - **Backend**: Node.js + Express.js  
 - **Database**: MongoDB  
@@ -50,7 +50,7 @@ AIBlog/
 
 ---  
 
-## ⚙️ Installation & Setup  
+## ⚙ Installation & Setup  
 
 ### 1. Clone the repo  
 ```bash
@@ -88,15 +88,15 @@ Run the client:
 npm run dev  
 ```
 ## Deployment  
--Frontend is deployed via Vercel  
--Backend can be deployed on Vercel  
+- Frontend is deployed via Vercel  
+- Backend can be deployed on Vercel  
 
-##Environment Variables   
-Make sure to create .env files in both client and server.  
-For security, these are ignored in .gitignore.  
+## Environment Variables   
+- Make sure to create .env files in both client and server.  
+- For security, these are ignored in .gitignore.  
 
 
-##Author  
+## Author  
 Jeevan MR  
 GitHub: Jeevan200431  
  
